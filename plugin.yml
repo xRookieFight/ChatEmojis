@@ -1,0 +1,17 @@
+name: ChatEmojis
+description: Implemented chat emojis for colorful PM chats.
+author: xRookieFight
+main: xRookieFight\ChatEmojis
+api: 5.0.0
+version: 1.0.3
+
+commands:
+  emojilist:
+    description: Emoji list
+    permission: chatemojis.use
+    aliases:
+      - emojis
+
+permissions:
+  chatemojis.use:
+    default: op
