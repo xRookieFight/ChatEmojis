@@ -5,5 +5,5 @@ branches:
 projects:
   ChatEmojis:
     path: ""
-    icon: "icon.png"
+    icon: icon.png
 ...
