@@ -1,7 +1,7 @@
 name: ChatEmojis
 description: Implemented chat emojis for colorful PM chats.
 author: xRookieFight
-main: xRookieFight\ChatEmojis
+main: xRookieFight\ChatEmojis\Main
 api: 5.0.0
 version: 1.0.3
 
